@@ -10,7 +10,7 @@ Create a Professional ReadMe Generator by running "node index.js"
 - Include Demo Walkthrough Video of the APP (.gif or a video): Screencastify, or convert .MOV to .GIF
 - Screenshot of a sample of README.md file generated
 
-## Generator Demo 
+## Team Creator Demo 
 
 Video Demo for the application:
 
@@ -18,7 +18,7 @@ Video Demo for the application:
 <img alt="READM Demo" src="./assets/demo/demo.gif">
 </p>
 
-### ReadMe Sample Demo
+### Team Sample Demo
 
 <p align = "center">
 <img alt="screenshot" src="./assets/demo/SampleReadMe.png">
@@ -28,13 +28,14 @@ Video Demo for the application:
 
 ## Table of Contents
 
-- [Homework-9 - ReadMe-Generator](#homework-9---readme-generator)
+- [Homework---10---OOP-Engineering-Team](#homework---10---oop-engineering-team)
   - [Description](#description)
-  - [Generator Demo](#generator-demo)
-    - [ReadMe Sample Demo](#readme-sample-demo)
+  - [Team Creator Demo](#team-creator-demo)
+    - [Team Sample Demo](#team-sample-demo)
   - [Table of Contents](#table-of-contents)
   - [Resources](#resources)
   - [Installation](#installation)
+  - [Tests](#tests)
   - [Usage](#usage)
   - [License](#license)
   - [Questions](#questions)
@@ -52,12 +53,20 @@ To install dependencies, run the following in your terminal:
 npm i 
 ```
 
+## Tests
+
+To run tests, run the following:
+
+```
+npm run test
+```
+
 ## Usage
 
 After installations are completed, run the app with: 
 
 ```
-node index.js
+node team.js
 ```
 
 ## License
