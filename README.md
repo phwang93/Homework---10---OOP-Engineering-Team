@@ -1,27 +1,34 @@
 # Homework---10---OOP-Engineering-Team
 
-Create a Professional ReadMe Generator by running "node index.js"
+Create a Team Building CLI APP using Node.js. 
 
 ## Description
- Create a command-line README.md generator with the following:
+ Create a command-line application that will do the following:
 
 - Using "Inquirer package": https://www.npmjs.com/package/inquirer
-- Invoke the application using "node index.js"
+- Invoke the application using "node team.js"
+- Use Jest to run tests for the app
+- Prompt User questions to create a Engineering Team
+- Generate a html file that includes all the team members
 - Include Demo Walkthrough Video of the APP (.gif or a video): Screencastify, or convert .MOV to .GIF
-- Screenshot of a sample of README.md file generated
-
+- Screenshot of a sample of team.html file generated
+- Screenshot of all test passed
 ## Team Creator Demo 
 
 Video Demo for the application:
 
 <p align = "center">
-<img alt="READM Demo" src="./assets/demo/demo.gif">
+<img alt="App Demo" src="./imgs/demo1.gif">
+</p>
+
+<p align = "center">
+<img alt="App2 Demo" src="./imgs/demo2.gif">
 </p>
 
 ### Team Sample Demo
 
 <p align = "center">
-<img alt="screenshot" src="./assets/demo/SampleReadMe.png">
+<img alt="screenshot" src="./imgs/SampleTeam.png">
 </p>
 
 
@@ -44,6 +51,7 @@ Video Demo for the application:
 
 * [Node.js](https://nodejs.org/)
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
+* [Jest](https://www.npmjs.com/package/jest)
 
 ## Installation
 
@@ -61,6 +69,10 @@ To run tests, run the following:
 npm run test
 ```
 
+<p align = "center">
+<img alt="screenshot" src="./imgs/SampleTest.png">
+</p>
+
 ## Usage
 
 After installations are completed, run the app with: 
@@ -68,6 +80,10 @@ After installations are completed, run the app with:
 ```
 node team.js
 ```
+
+<p align = "center">
+<img alt="Prompt" src="./imgs/Prompt.png">
+</p>
 
 ## License
 
@@ -78,3 +94,4 @@ This repository is licensed under the [MIT license](./LICENSE).
 If you have any questions, please contact me at: 
 * Email: [pshwang93@gmail.com](mailto:pshwang93@gmail.com). 
 * GitHub: [phwang93](https://github.com/phwang93).
+* Repo: [Homework10-OOP-Engineering-Team](https://github.com/phwang93/Homework---10---OOP-Engineering-Team).
